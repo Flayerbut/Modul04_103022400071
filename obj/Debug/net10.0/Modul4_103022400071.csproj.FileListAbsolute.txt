@@ -1,0 +1,15 @@
+C:\visual studio\Modul4_103022400071\Modul4_103022400071\bin\Debug\net10.0\Modul4_103022400071.exe
+C:\visual studio\Modul4_103022400071\Modul4_103022400071\bin\Debug\net10.0\Modul4_103022400071.deps.json
+C:\visual studio\Modul4_103022400071\Modul4_103022400071\bin\Debug\net10.0\Modul4_103022400071.runtimeconfig.json
+C:\visual studio\Modul4_103022400071\Modul4_103022400071\bin\Debug\net10.0\Modul4_103022400071.dll
+C:\visual studio\Modul4_103022400071\Modul4_103022400071\bin\Debug\net10.0\Modul4_103022400071.pdb
+C:\visual studio\Modul4_103022400071\Modul4_103022400071\obj\Debug\net10.0\Modul4_103022400071.GeneratedMSBuildEditorConfig.editorconfig
+C:\visual studio\Modul4_103022400071\Modul4_103022400071\obj\Debug\net10.0\Modul4_103022400071.AssemblyInfoInputs.cache
+C:\visual studio\Modul4_103022400071\Modul4_103022400071\obj\Debug\net10.0\Modul4_103022400071.AssemblyInfo.cs
+C:\visual studio\Modul4_103022400071\Modul4_103022400071\obj\Debug\net10.0\Modul4_103022400071.csproj.CoreCompileInputs.cache
+C:\visual studio\Modul4_103022400071\Modul4_103022400071\obj\Debug\net10.0\Modul4_103022400071.sourcelink.json
+C:\visual studio\Modul4_103022400071\Modul4_103022400071\obj\Debug\net10.0\Modul4_103022400071.dll
+C:\visual studio\Modul4_103022400071\Modul4_103022400071\obj\Debug\net10.0\refint\Modul4_103022400071.dll
+C:\visual studio\Modul4_103022400071\Modul4_103022400071\obj\Debug\net10.0\Modul4_103022400071.pdb
+C:\visual studio\Modul4_103022400071\Modul4_103022400071\obj\Debug\net10.0\Modul4_103022400071.genruntimeconfig.cache
+C:\visual studio\Modul4_103022400071\Modul4_103022400071\obj\Debug\net10.0\ref\Modul4_103022400071.dll
